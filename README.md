@@ -20,7 +20,7 @@ needs to be in libs/jpgraph of the website root directory, the images in img.
 
 ## Download
 
-Get the latest release from https://github.com/soelderer/iaq-server
+Get the latest release from https://diplomarbeit.soelder.xyz/releases
 
 ## Install
 
